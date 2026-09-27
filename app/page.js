@@ -10,7 +10,7 @@ const studentCars = [
     image: "/image/car-01.jpg",
     car: "Ferrari 296 GTB",
     student: "柴粉學員 A",
-    note: "加密貨幣實戰班・ˊ資深成員",
+    note: "加密貨幣實戰班・資深成員",
   },
   {
     image: "/image/car-02.jpg",
